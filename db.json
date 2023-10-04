@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "aldo",
+      "name": "aldo ls",
+      "password": "@ALdols123",
+      "phone": "085768620882",
+      "email": "aldobesma@gmail.com",
+      "country": "inggris",
+      "address": "Pondok Kubang, Bengkulu Tengah"
+    },
+    {
+      "id": "feti indriani",
+      "name": "feti indriani sayang ku",
+      "password": "fei#233123",
+      "phone": "085768620882",
+      "email": "fei@gmail.com",
+      "country": "malaysia",
+      "address": "Johor"
+    },
+    {
+      "id": "234",
+      "name": "randi",
+      "password": "randi123",
+      "phone": "08240928",
+      "email": "rndi@gmail.com",
+      "country": "inggris",
+      "address": "gfd"
+    }
+  ]
+}
